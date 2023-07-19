@@ -68,7 +68,7 @@ def compare_json_files(model_file, translation_file):
 model_file_path = 'input/'
 
 # Place the output file in the output folder and change the "translation_file_path" value below to the path of your output file.
-translation_file_path = 'outpu/'
+translation_file_path = 'output/'
 
 
 compare_json_files(model_file_path, translation_file_path)
